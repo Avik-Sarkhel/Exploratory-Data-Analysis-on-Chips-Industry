@@ -47,6 +47,8 @@ This project is part of the QUANTIUM job simulation on the Forage platform. It i
 
 ## Contact
 📧 Email: avik305sarkhel@gmail.com
+
 🔗 QUANTIUM Job Simulation Link: https://www.theforage.com/simulations/quantium/data-analytics-rqkb  
-📂 GitHub Repository:
+
+📂 GitHub Repository: https://github.com/Avik-Sarkhel/Quantium-Job-Simulation.git
 
